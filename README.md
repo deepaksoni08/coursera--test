@@ -15,4 +15,4 @@
   <h3>Inspect the page and checkout the Console in the Developer Tools.</h3>
 </body>
 </html>
-© 2020 GitHub, Inc.v
+© 2020 GitHub, Inc.
